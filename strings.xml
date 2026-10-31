@@ -1,0 +1,3 @@
+<resources>
+    <string name="svc_desc">Rysuje Dynamic Island nad paskiem stanu. Nie odczytuje zawartości ekranu.</string>
+</resources>
